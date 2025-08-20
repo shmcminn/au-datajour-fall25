@@ -130,7 +130,7 @@ Class 14: No class (Thanksgiving)
 Details at above link. Due Thu, Dec 11, 2025 5 p.m.
 
 
-### Students with dissabilities
+### Students with disabilities
 
 If you wish to receive accommodations for a disability, please notify me with a memo from the Academic Support and Access Center. As accommodations are not retroactive, timely notification at the beginning of the semester, if possible, is strongly recommended. To register with a disability or for questions about disability accommodations, contact the Academic Support and Access Center at 202-885-3360 or asac@american.edu. For more information, visit AU’s [Disability Accommodations web page](https://www.american.edu/provost/academic-access/documentation-and-eligibility.cfm).
 
