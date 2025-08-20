@@ -2,7 +2,7 @@
 
 **Due by beginning of class 4**
 
-## Make your own datasets - group or individual
+## Make your own datasets 
 
 Create a dataset either in Excel or Google sheets tracking the following (imaginary) grants from infrastructure bill projects funding. Use markdown to link to the dataset in your assignment2.md file. This can be done either by uploading the Excel file to github and copying the link, or linking to a Google sheet (make sure to set the sheet to "public" first).
 
@@ -21,7 +21,7 @@ GOOSE ELEVATED CONSTRUCTION of San Diego, Calif., received $86,000,000 to improv
 KIM CONSTRUCTION of Malibu, Calif., received $33,000,000 to repair a pier. The company is owned by Kimberly Kard Ashy-Anne of Malibu, Calif.
 
 
-## Story research
+## Story research -- on your own or in your group
 
 One of the first steps in taking on any enterprise story is seeing what's been done already. 
 

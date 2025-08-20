@@ -15,7 +15,7 @@ Markdown is a markup language that plays particularly well with github, producin
 ## Assignment
 
 1. Create a Github account. 
-1. Create a repository called *datajournalism-fall22*. You will submit all your homework there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLSfk4ziRgQyN2-UTuat7TwsZjGZKJLJDymaIHoUvidJEeYr0Dw/viewform) so I know where to find your homework.
+1. Create a repository called *datajournalism-fall2025*. You will submit all your homework there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLScIAfWHr8d6qS3heYwbPkHwZcyKzVT-ztaowKgXuS4Ty9UjUA/viewform) so I know where to find your homework.
 2. Create a new file called assignment1.md
 3. Choose a [data-driven investigation from this list](https://docs.google.com/spreadsheets/d/1fBslhcz5EjNt4paGkQfCkYgcL69FaarU00B-OskKVQ8/edit?usp=sharing) and critiqiue it [following this template](../critique_template.md).
 	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original story.
@@ -30,8 +30,10 @@ Markdown is a markup language that plays particularly well with github, producin
    * A bulleted list
    * An ordered list 
    * A table
-1. Commit this assignment in your datajournalism-fall22 repository.
+1. Commit this assignment in your datajournalism-fall2025 repository.
+1. Preview the file to make sure your markdown rendered as expected, and fix any errors.
 1. Subscribe to The Department of Data and read articles as they're published. We will discuss them in class.
+1. Download the required software on the syllabus. You will need Tabula for class 2.
 
 ## Reminder
 
