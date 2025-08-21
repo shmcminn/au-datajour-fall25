@@ -85,7 +85,7 @@ We can and will use online tools — including AI — to help you solve technica
 * Lecture
 * Interactive lesson
 * Introduce assignment
-* Free time (assignment, office hours, leave early)
+* Time for assignment work or questions
 
 ### Schedule
 
@@ -127,8 +127,7 @@ Class 14: No class (Thanksgiving)
 
 ### [Final project](finalproject.md)
 
-Details at above link. Due Thu, Dec 11, 2025 5 p.m.
-
+Details will be posted above link. Due Thu, Dec 11, 2025 5 p.m.
 
 ### Students with disabilities
 
