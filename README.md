@@ -1,4 +1,4 @@
-![syllabusbanner](SyllabusBannerQ1.png)
+![syllabusbanner](SyllabusBannerQ2.png)
 
 # American University COMM-260, Fall 2025
 ## Quantitative Methods for Journalists
