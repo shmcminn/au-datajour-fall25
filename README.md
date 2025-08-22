@@ -47,7 +47,7 @@ Special thank you to [Rachel Shorey](https://github.com/rshorey/digitalframework
 	* [QGIS](https://qgis.org/download/) (free)
 	* [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop) (free)
 	* We might dabble in some other free software as well, which we can download together. 
-* I will use Canvas messaging as the primary means of communicating with the class, making your use a required element. Please make sure you check your email daily.
+* I will use Canvas messaging and/or email as the primary means of communicating with the class, making your use a required element. Please make sure you check your email daily.
 * All lectures/assignments/class materials will be available on Github.
 
 
