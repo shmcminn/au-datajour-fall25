@@ -18,22 +18,26 @@ Markdown is a markup language that plays particularly well with github, producin
 1. Create a repository called *datajournalism-fall2025*. You will submit all your assignments there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLScIAfWHr8d6qS3heYwbPkHwZcyKzVT-ztaowKgXuS4Ty9UjUA/viewform) so I know where to find your homework.
 2. Create a new file called assignment1.md
 3. Choose a [data-driven investigation from this list](https://docs.google.com/spreadsheets/d/1fBslhcz5EjNt4paGkQfCkYgcL69FaarU00B-OskKVQ8/edit?usp=sharing) and critiqiue it [following this template](../critique_template.md).
-	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original story.
-1. Write a short pitch, as you would in a note to an editor, for a story idea that could work for the class final project. This is NOT locking you in to this idea - this is just to get you thinking about ideas now. The pitch should (at least) cover:
+	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original stor
+1. Write a short pitch, as you would in a note to an editor, for a story idea that could work for the class final project. This is NOT locking you in to this idea - this is just to get you thinking about ideas now and so we have a starting point to discuss. The pitch should (at least) cover:
 	* What interesting question you want to answer
 	* What data may be available (or how you could collect your own dataset) to help you answer it
 	* Why this story is timely now
 	* What types of people you could talk to for sources
 	* Anything else important to know
-1. Include at least one of the following features in either your critique or story pitch, to show you know how to use markdown:
+
+
+Include at least one of the following features in either your critique or story pitch, to show you know how to use markdown:
    * A heading
    * A bulleted list
    * An ordered list 
    * A table
-1. Commit this assignment in your datajournalism-fall2025 repository.
-1. Preview the file to make sure your markdown rendered as expected, and fix any errors.
-1. Subscribe to The Department of Data and read articles as they're published. We will discuss them in class.
-1. Download the required software on the syllabus. You will need Tabula for class 2.
+
+Commit this assignment in your datajournalism-fall2025 repository. Preview the file to make sure your markdown rendered as expected, and fix any errors.
+
+Subscribe to The Department of Data and read articles as they're published. We will discuss them in class.
+
+Download the required software on the syllabus. You will need Tabula for class 2.
 
 ## Reminder
 
