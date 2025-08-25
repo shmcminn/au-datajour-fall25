@@ -93,10 +93,6 @@ This is subject to revisions based on availablity, final project pacing, etc.
 
 **Class 1: Start here!/Story assignment**
 
-* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSffx9wWR8lH7PrLpM0WPCqq0kTN8US1xuoQLeCCvNPkxrz0yw/viewform)
-* [Submit your github repo](https://docs.google.com/forms/d/e/1FAIpQLScIAfWHr8d6qS3heYwbPkHwZcyKzVT-ztaowKgXuS4Ty9UjUA/viewform)
-* [Assignment 1](assignments/assignment1.md) 
-
 **Class 2: Finding data**
 
 **Class 3: Cleaning/analyzing data pt I**

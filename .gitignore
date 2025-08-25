@@ -15,5 +15,7 @@ class12/
 class13/
 class14/
 class15/
-assignments/
+assignments/*
+!assignments/
+!assignments/assignment1.md
 .ipynb_checkpoints/
