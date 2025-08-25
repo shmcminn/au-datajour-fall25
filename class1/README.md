@@ -1,4 +1,4 @@
-# Class 1: Start here!/Story assignments 
+# Class 1: Start here!
 
 [Slides](https://docs.google.com/presentation/d/189WSpJREYnhgygm4swfmuNTRvlpAqSwYtCrWPu2JK8Y/edit)
 
