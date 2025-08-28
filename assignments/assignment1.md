@@ -18,7 +18,7 @@ Markdown is a markup language that plays particularly well with github, producin
 1. Create a repository called *datajournalism-fall2025*. You will submit all your assignments there. Add your account name to this [Google sheet](https://docs.google.com/forms/d/e/1FAIpQLScIAfWHr8d6qS3heYwbPkHwZcyKzVT-ztaowKgXuS4Ty9UjUA/viewform) so I know where to find your homework.
 2. Create a new file called assignment1.md
 3. Choose a [data-driven investigation from this list](https://docs.google.com/spreadsheets/d/1fBslhcz5EjNt4paGkQfCkYgcL69FaarU00B-OskKVQ8/edit?usp=sharing) and critiqiue it [following this template](../critique_template.md).
-	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original stor
+	* Include a hyperlink (written as `[link text](http://www.linkurl.com)`) to the original story
 1. Write a short pitch, as you would in a note to an editor, for a story idea that could work for the class final project. This is NOT locking you in to this idea - this is just to get you thinking about ideas now and so we have a starting point to discuss. The pitch should (at least) cover:
 	* What interesting question you want to answer
 	* What data may be available (or how you could collect your own dataset) to help you answer it
