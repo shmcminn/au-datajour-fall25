@@ -1,6 +1,5 @@
-**Class 2: Finding Data (Jan. 23)**
+**Class 2: Finding Data (Sept 4)**
 
-* Share Stories
-* Dept of Data
-* Lecture - finding data
-* [Assignment 2: What's Out There](../assignments/assignment2.md)
+* [Slides](https://docs.google.com/presentation/d/1_AUgKpOx_-C4Um8i-xvAEUQMhGJGlhwcQzSOOpc3u8I/edit?usp=sharing)
+* Review pitches (if time)
+* [Assignment 2](../assignments/assignment2.md)
