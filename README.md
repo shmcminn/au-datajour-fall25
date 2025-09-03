@@ -107,9 +107,9 @@ This is subject to revisions based on availablity, final project pacing, etc.
 
 **Class 8: Mapping, geographic data**
 
-**Class 9: Covering federal govt with data**
+**Class 9: Writing about data (asynchronous class)**
 
-**Class 10: Writing about data (asynchronous class)**
+**Class 10: Covering federal govt with data**
 
 **Class 11: Automating all this pt I**
 
