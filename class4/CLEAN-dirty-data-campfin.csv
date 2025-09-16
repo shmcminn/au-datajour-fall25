@@ -1,0 +1,11 @@
+﻿Donor,Party,Employer,Amount,date,address,city,state,zip
+Alex Turner,D,Def Inc.,$900 ,1/17/23,1414 Rose Road,Aurora,IL,60504
+Alice Brown,D,Def Inc.,$800-$1200,2023-02-02,101 Pine Rd,Rockford,IL,61101
+"Perez, Alicia",Dem,DEF Inc.,$670-$1350,3/29/23,6060 Poppy Dr,Decatur,IL,62525
+Amanda Perez,DEM,XYZ Inc.,$600-$1200,3/29/23,3434 Oak Pl,Waukegan,IL,60088
+Amanda Wright,Dem,ACME Corp.,$650-$1150,3/13/23,1717 Daisy Lane,Decatur,IL,62526
+"Clark, Amy",D,DEF Inc.,$850-$1500,"Jan 27, 2023",5252 Sunflower Rd,Elgin,IL,60126
+"Turner, Andrew",Dem,Abc Co,$760-$1250,7/16/23,2424 Peony Ln,Peoaria,IL,61501
+Bob Johnson,DEMOCRATIC,ABC Company,$200-$600,1/24/23,789 Oak Ave,Peoria,IL,61501
+Brian Turner,DEMOCRATIC,Acme Corp.,$700 ,3/27/23,5959 Carnation Rd,Bloomington,IL,61708
+Buck Turner,D,ABC Company,$710 ,"“March 22, 2023”",3333 Elm Ct,Joliet,IL,60433
