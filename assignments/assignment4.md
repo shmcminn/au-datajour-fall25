@@ -25,7 +25,9 @@ Don't worry about:
 * Typefaces/fonts
 * Color -- *unless it is critical to understanding your visualization* (i.e. a map where darker colors = higher values)
 
-**For `assignment4.md`, you'll turn in:**
+## What you'll turn in 
+
+For `assignment4.md`, you'll turn in:
 
 * Links to the two original charts you redesigned. 
 * Links to your chart redesign image files (you can upload PNGs or JPEGs to Github and link from your markdown file -- ask Google or use AI for instructions)
