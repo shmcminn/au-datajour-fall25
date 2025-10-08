@@ -101,11 +101,11 @@ This is subject to revisions based on availablity, final project pacing, etc.
 
 **Class 5: Stats for journalists**
 
-**Class 6: Data viz pt I (guest: Andrew Van Dam)**
+**Class 6: Data viz pt I**
 
 **Class 7: Data viz pt II**
 
-**Class 8: Mapping, geographic data**
+**Class 8: Mapping, geographic data (guest: Andrew Van Dam)**
 
 **Class 9: Writing about data (asynchronous class)**
 

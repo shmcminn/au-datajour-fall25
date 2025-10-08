@@ -1,6 +1,5 @@
 .DS_Store
 etc
-class7/
 class8/
 class9/
 class10/
@@ -15,6 +14,7 @@ assignments/*
 !assignments/assignment2.md
 !assignments/assignment3.md
 !assignments/assignment4.md
+!assignments/assignment-EC1.md
 .ipynb_checkpoints/
 *.pptx
 .~lock*
