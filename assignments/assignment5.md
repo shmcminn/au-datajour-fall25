@@ -1,5 +1,7 @@
 # Assignment 5 - writing about data
 
+**Due Oct. 30**
+
 Choose one of these stories to read in full. Critique it based on the following. For each, write in complete sentences and give examples and your reasoning; not just yes or no reponses.
 
 [Where will the West's next deadly wildfire strike? The risks are everywhere](https://www.azcentral.com/in-depth/news/local/arizona-wildfires/2019/07/22/wildfire-risks-more-than-500-spots-have-greater-hazard-than-paradise/1434502001/)
