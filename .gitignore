@@ -1,6 +1,5 @@
 .DS_Store
 etc
-class10/
 class11/
 class12/
 class13/
@@ -17,3 +16,4 @@ assignments/*
 .ipynb_checkpoints/
 *.pptx
 .~lock*
+README-old.md
