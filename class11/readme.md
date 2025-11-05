@@ -2,7 +2,7 @@
 
 [Slides](https://docs.google.com/presentation/d/1tMZO4UdvKuUIoiZe3X0zolrqbeRE0wELGCmV8lKttYU/edit?usp=sharing)
 
-[Jupyter notebook](automate-basektball.ipynb)
+[Jupyter notebook](automate-basketball.ipynb)
 
 [Jupyter notebook (with answers)](automate-basketball-answers.ipynb)
 
