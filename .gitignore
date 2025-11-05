@@ -1,6 +1,5 @@
 .DS_Store
 etc
-class11/
 class12/
 class13/
 class14/
@@ -12,8 +11,10 @@ assignments/*
 !assignments/assignment3.md
 !assignments/assignment4.md
 !assignments/assignment5.md
+!assignments/assignment6.md
 !assignments/assignment-EC1.md
 .ipynb_checkpoints/
+.jupyter
 *.pptx
 .~lock*
 README-old.md
