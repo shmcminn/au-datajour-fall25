@@ -30,7 +30,7 @@ Turn in links to your charts as `EC-WaPo.md` for extra credit. Feel free to ask 
     * Hints: 
         * You'll only use rows labeled `Cherokee alone or in any combination` (POPGROUP 2908)
         * You may need to "transpose" the total population file 
-        * You'll need to merge the total population and Cherokee population data, using a lookup on the county name columns
+        * You'll need to merge the total population and Cherokee population data, using a `vlookup` or `xlookup` on the county name columns (feel free to ask AI how to do this)
         * Once you do the merge, you can calculate the pct of Cherokee per county population
         * In Datawrapper, you'll use the GEO_ID column as your FIPS code. BUT you only want to include the last five digits (everything after `0500000US`).
         * Do your best with the custom color steps to match the WAPO graphic, but no need to get it perfect
